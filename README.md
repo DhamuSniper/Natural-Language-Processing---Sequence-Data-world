@@ -8,7 +8,7 @@ In this data world, sequence data is one of the challenging thing to get process
 REPO AUTHOR INFO - G DHAMODHARAN, Msc Computer Science, Anna University
 NLP has a wide range of applications like, 
 
-                                         - Speech Recognition
+                                         * Speech Recognition
                                          * Dialog Systems
                                          * Sentiment Analysis
                                          * Machine Translation
@@ -19,37 +19,37 @@ NLP has a wide range of applications like,
                                          
 To learn NLP, We must master RNN - Recurrent Neural Networks. I designed this repo something like this( Thanks to Standford CheatSheet )
 #Basics
-                                       Architecture structure
-                                       Applications of RNNs
-                                       Loss function
-                                       Backpropagation
+                                      * Architecture structure
+                                      * Applications of RNNs
+                                      * Loss function
+                                      * Backpropagation
 #Handling long term dependencies
-                                       Common activation functions 
-                                       Vanishing/exploding gradient
-                                       Gradient clipping
-                                       GRU/LSTM
-                                       Types of gates
-                                       Bidirectional RNN
-                                       Deep RNN
+                                      * Common activation functions 
+                                      * Vanishing/exploding gradient
+                                      * Gradient clipping
+                                      * GRU/LSTM
+                                      * Types of gates
+                                      * Bidirectional RNN
+                                      * Deep RNN
 #Learning word representation
-                                       Notations
-                                       Embedding matrix
-                                       Word2vec
-                                       Skip-gram
-                                       Negative sampling
-                                       GloVe
+                                      * Notations
+                                      * Embedding matrix
+                                      * Word2vec
+                                      * Skip-gram
+                                      * Negative sampling
+                                      * GloVe
 #Comparing words
-                                       Cosine similarity
-                                       t-SNE
-                                       Language model
-                                       n-gram
-                                       Perplexity
+                                      * Cosine similarity
+                                      * t-SNE
+                                      * Language model
+                                      * n-gram
+                                      * Perplexity
 #Machine translation
-                                       Beam search
-                                       Length normalization
-                                       Error analysis
-                                       Bleu score
+                                      * Beam search
+                                      * Length normalization
+                                      * Error analysis
+                                      * Bleu score
 #Attention
-                                       Attention model
-                                       Attention weights
+                                      * Attention model
+                                      * Attention weights
 
