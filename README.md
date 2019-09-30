@@ -48,7 +48,7 @@ To learn NLP, We must master RNN - Recurrent Neural Networks. I designed this re
                                       * Language model
                                       * n-gram
                                       * Perplexity
-#Machine translation
+# Machine translation
 
                                       * Beam search
                                       * Length normalization
