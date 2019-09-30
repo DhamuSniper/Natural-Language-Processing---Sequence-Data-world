@@ -7,7 +7,7 @@ This repo is purely inspired from Andrew Ng's Coursera course called Deep learni
 In this data world, sequence data is one of the challenging thing to get processed. But fortunately Deep neural networks helps us to process this data and ease the way to get valuable results.
 REPO AUTHOR INFO - G DHAMODHARAN, Msc Computer Science, Anna University
 NLP has a wide range of applications like, 
-                                         *Speech Recognition
+                                         -Speech Recognition
                                          * Dialog Systems
                                          * Sentiment Analysis
                                          * Machine Translation
