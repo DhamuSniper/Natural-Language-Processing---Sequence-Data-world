@@ -18,12 +18,14 @@ NLP has a wide range of applications like,
                                          * and Many more...
                                          
 To learn NLP, We must master RNN - Recurrent Neural Networks. I designed this repo something like this( Thanks to Standford CheatSheet )
-#Basics
+# Basics
+
                                       * Architecture structure
                                       * Applications of RNNs
                                       * Loss function
                                       * Backpropagation
-#Handling long term dependencies
+# Handling long term dependencies
+
                                       * Common activation functions 
                                       * Vanishing/exploding gradient
                                       * Gradient clipping
@@ -31,25 +33,29 @@ To learn NLP, We must master RNN - Recurrent Neural Networks. I designed this re
                                       * Types of gates
                                       * Bidirectional RNN
                                       * Deep RNN
-#Learning word representation
+# Learning word representation
+
                                       * Notations
                                       * Embedding matrix
                                       * Word2vec
                                       * Skip-gram
                                       * Negative sampling
                                       * GloVe
-#Comparing words
+# Comparing words
+
                                       * Cosine similarity
                                       * t-SNE
                                       * Language model
                                       * n-gram
                                       * Perplexity
 #Machine translation
+
                                       * Beam search
                                       * Length normalization
                                       * Error analysis
                                       * Bleu score
-#Attention
+# Attention
+
                                       * Attention model
                                       * Attention weights
 
